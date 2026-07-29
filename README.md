@@ -1,5 +1,8 @@
 # Nti Soft Project
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-CSS-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/nti_soft_project)
+
+
 Nti Soft Project — a CSS project by Alaashamel.
 
 ## ✨ Features
