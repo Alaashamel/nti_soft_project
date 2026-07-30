@@ -3,8 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-CSS-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/nti_soft_project)
 
 
-Nti Soft Project — a CSS project by Alaashamel.
-
+Software engineering training project from the NTI program, containing a portfolio-style front-end built with HTML and CSS.
 ## ✨ Features
 
 - Built primarily with **CSS**
